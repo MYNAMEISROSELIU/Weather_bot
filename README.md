@@ -1,9 +1,9 @@
 # A Weather Bot
 
-A django implementation of new [Line Message API](https://devdocs.line.me/en/#messaging-api) using [line-bot-sdk-python](https://github.com/line/line-bot-sdk-python)
-Edit from [Lee-W](https://github.com/Lee-W)
-加入查詢天氣功能
+A django implementation of new [Line Message API](https://devdocs.line.me/en/#messaging-api) using [line-bot-sdk-python](https://github.com/line/line-bot-sdk-python).
+Edit from [Lee-W](https://github.com/Lee-W).
 
+加入查詢天氣功能。
 ## About
 1. 接收到包含key word"天氣"的訊息時, 將提供地點選擇
 2. 回覆地點編號可以得到天氣狀況
