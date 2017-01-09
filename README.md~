@@ -18,8 +18,6 @@ You MUST setup the following variables.
 	- django secret key. You can generate using [Django secret key generator](https://gist.github.com/mattseymour/9205591)	
 - LINE\_CHANNEL\_SECRET
 - LINE\_CHANNEL\_ACCESS\_TOKEN
-- WEATHER\_ADMIN\_KEY
-	- You can sign up a new account in [氣象資料開放平台](http://opendata.cwb.gov.tw/index) and get your key.
 
 There are two way to set these variables  
 1. Set these variables in `line_echobot/line_echobot/settings_secret.py`(Exactly the same name)  
